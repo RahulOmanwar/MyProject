@@ -13,3 +13,7 @@ alter table test add address1 varchar2(200);
 --changeset romanwar:3 runAlways:false dbms:oracle
 
 alter table test add address2 varchar2(200);
+
+--changeset romanwar:4 runAlways:false dbms:oracle
+
+alter table test add city varchar2(200);
